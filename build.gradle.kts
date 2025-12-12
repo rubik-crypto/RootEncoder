@@ -1,6 +1,6 @@
 allprojects {
   group = "com.github.rubik-crypto"
-  version = "2.6.7"
+  version = "2.6.8"
 
   plugins.withType<PublishingPlugin> {
     configure<PublishingExtension> {
